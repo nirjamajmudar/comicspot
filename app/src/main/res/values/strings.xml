@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Comicspot</string>
+    <string name="page_not_found_error">Uh oh…We can\'t find the comic that you are looking for.</string>
+    <string name="generic_error">Oops! Something went wrong. Please try again later.</string>
+    <string name="ok_button">Ok</string>
+    <string name="enter_both_keys_text">Please enter both the keys</string>
+</resources>
